@@ -16,6 +16,22 @@ staging area => local repository 업로드 하는 것
 ## 2. push 
 
 ```
-local repository => remote repository 
+local repository => remote repository 로 갱신하여 저장하는 것
 ```
 
+## 3. pull
+
+```
+remote repository => local repository 로 가져오는 것
+일부 내용을 동기화 할때 사용한다.
+```
+
+## 4. clone
+```
+remote repository 에서 local repository로 가져오는 것
+```
+
+## 5. fork
+```
+한 remote repository를 다른 remote repository 로 복사하는 것
+```
